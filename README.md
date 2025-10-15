@@ -19,7 +19,7 @@ This project explores how far Scratch (and by extension, PenguinMod) can be push
 ## 🛠️ Built With
 
 - [Scratch](https://scratch.mit.edu) – Original version
-- [PenguinMod](https://penguinmod.com) – Enhanced fork with more features (optional)
+- [PenguinMod](https://penguinmod.com) – Enhanced fork with more features (required)
 
 You can view the project on:
 
