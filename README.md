@@ -10,11 +10,10 @@ This project explores how far Scratch (and by extension, PenguinMod) can be push
 
 ## 🧠 Features
 
-- 🖱️ Clickable navigation (like a menu bar or buttons)
-- 🗂️ Multiple "pages" or sections (About, Projects, Contact, etc.)
+- 🖱️ Clickable navigation (like buttons)
 - 🖼️ Image and text rendering using sprites and costumes
 - 🎨 Custom design and UI/UX made with Scratch graphics
-- 🔄 Page transitions, loading screens, and interactivity
+- 🔄 Page transitions, and interactivity
 - 📱 Designed to be responsive (as much as Scratch allows)
 
 ## 🛠️ Built With
